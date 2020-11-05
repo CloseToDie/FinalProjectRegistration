@@ -23,26 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16a42a4f-52a0-47a6-ad6a-66b4e4095cd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FinalProjectRegistration.Core.Entity/Student.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalProjectRegistration.Core.Entity/Team.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalProjectRegistration.Core/ApplicationServices/IStudentService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalProjectRegistration.Core/ApplicationServices/Services/StudentService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalProjectRegistration.Core/DomainServices/IStudentRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalProjectRegistration.Core/DomainServices/ITeamRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalProjectRegistration.InfraStructure.Data/StudentRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XUnitTest/StudentServiceTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalProjectRegistration/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalProjectRegistration/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalProjectRegistration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalProjectRegistration/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalProjectRegistration.Core.Entity/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalProjectRegistration.Core/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalProjectRegistration.Core/FinalProjectRegistration.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProjectRegistration.Core/FinalProjectRegistration.Core.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalProjectRegistration.InfraStructure.Data/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProjectRegistration.InfraStructure.Data/FakeDb.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalProjectRegistration.InfraStructure.Data/FinalProjectRegistration.InfraStructure.Data.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProjectRegistration.InfraStructure.Data/FinalProjectRegistration.InfraStructure.Data.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalProjectRegistration.UI.API/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalProjectRegistration.UI.API/FinalProjectRegistration.UI.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProjectRegistration.UI.API/FinalProjectRegistration.UI.API.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalProjectRegistration.sln" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProjectRegistration.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XUnitTest/UnitTest1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XUnitTest/XUnitTest.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/XUnitTest/XUnitTest.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +67,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.FinalProjectRegistration.UI.API">
@@ -130,7 +112,7 @@
       <updated>1603961630020</updated>
       <workItem from="1603961634998" duration="2705000" />
       <workItem from="1603976833799" duration="140000" />
-      <workItem from="1604567870672" duration="443000" />
+      <workItem from="1604567870672" duration="1002000" />
     </task>
     <servers />
   </component>

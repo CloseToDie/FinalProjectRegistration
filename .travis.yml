@@ -1,6 +1,28 @@
+sudo: required
+
+dist: xenial
+
+addons:
+
+snaps:
+
+- name: dotnet-sdk
+
+confinement: classic
+
+channel: lts/stable
+
 language: csharp
-solution: FinalProjectRegistration.sln
+
 mono: none
-dotnet: 2.1.502
+
+solution: FinalProjectRegistration.sln
+
+before_script:
+
+sudo snap alias dotnet-sdk.dotnet dotnet
+
 script:
- - dotnet restore
+- dotnet restore
+- dotnet build
+- dotnet test
